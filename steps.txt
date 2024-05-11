@@ -1,0 +1,29 @@
+add zsh
+make zsh default terminal
+add oh my zsh
+add oh my posh
+add nvim from source
+install ripgrep
+add gpg
+install net-tools
+setup ssh in the new installation of Linux to get the files from ubuntu20.04 follow the steps from Trello notes
+transfer the gpg private and public key to new installation with scp
+add pass
+copy the files for pass from GitHub to the new machine
+install eza
+download oh my posh theme mentined in the .zshrc file to the location specified in the same .zshrc file\
+add z plugin
+copy the zsh config from GitHub to herer.
+add tmux
+copy tmux plugin from GitHub
+add nvm
+install latest version of node
+install pip
+configure git
+Add a app for viewing images in the system
+install lazygit
+add a backup folder with GitHub sync for tmux config
+add a backup folder with GitHub sync for .zshrc config
+add a backup folder with GitHub sync for nvim config
+commit and push latest nvim config from the old Linux installation to github
+download the latest nvim config ftom GitHub to new installation of Linux
